@@ -1,7 +1,0 @@
-C:\Users\User\Documents\Cheng Kung University\Course\107(1)\視窗程式設計\week1\week1\bin\Debug\week1.exe.config
-C:\Users\User\Documents\Cheng Kung University\Course\107(1)\視窗程式設計\week1\week1\bin\Debug\week1.exe
-C:\Users\User\Documents\Cheng Kung University\Course\107(1)\視窗程式設計\week1\week1\bin\Debug\week1.pdb
-C:\Users\User\Documents\Cheng Kung University\Course\107(1)\視窗程式設計\week1\week1\obj\Debug\week1.csprojResolveAssemblyReference.cache
-C:\Users\User\Documents\Cheng Kung University\Course\107(1)\視窗程式設計\week1\week1\obj\Debug\week1.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Cheng Kung University\Course\107(1)\視窗程式設計\week1\week1\obj\Debug\week1.exe
-C:\Users\User\Documents\Cheng Kung University\Course\107(1)\視窗程式設計\week1\week1\obj\Debug\week1.pdb
